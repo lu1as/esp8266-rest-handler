@@ -1,6 +1,6 @@
 # esp8266-rest-handler
 
-REST handler for ESP8266 based on the (RequestHandler)[https://github.com/esp8266/ESPWebServer/blob/master/src/detail/RequestHandler.h]
+REST handler for ESP8266 based on the [RequestHandler](https://github.com/esp8266/ESPWebServer/blob/master/src/detail/RequestHandler.h)
 
 ## Usage
 
